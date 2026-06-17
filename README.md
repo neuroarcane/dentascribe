@@ -58,5 +58,5 @@ The `samples/` folder contains 10 short M4A recordings of dental consultations c
 - Streamlit (demo + live mic recording)
 - Google Colab Pro+ (H100 GPU, used for training)
 
-## Course
+## Bootcamp
 Mathematics / Deep Learning — Group Project
